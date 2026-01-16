@@ -1,4 +1,4 @@
-function userinputtest(){
+function userinputtest1(){
 let a = prompt("What is 12 times 13??")
 let hi = 12
 let hi2 = 13
