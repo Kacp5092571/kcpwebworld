@@ -1,7 +1,17 @@
 Hello!
 takes notes abt css later
 example:
-<style>
 p {
 color:red;
 text-align:center;
+}
+
+You can have multiple items
+p, h1, h2{
+    color:red;
+}
+
+If you have a certain ID or multiple IDs you want to use you can
+#paraone {
+    color:red;
+}
