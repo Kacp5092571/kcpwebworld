@@ -25,4 +25,4 @@ border-radius and font-size
 font-family: "Comic Sans MS";
 
 How to add- example:
-<link rel ="stylesheet" href="styles.css"
+<link rel ="stylesheet" href="styles.css">
